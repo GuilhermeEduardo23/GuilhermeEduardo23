@@ -1,5 +1,4 @@
-### Hi there! 👋 😎
-### My name's Guilherme Eduardo 😃
+![image](https://user-images.githubusercontent.com/88467676/195169350-88db1329-3029-4a02-bb6f-bb80a299d6be.png)
 
 - 🔭 I’m currently working with language Java and PostgreSQL database.
 -     Estou trabalhando atualmente com a linguagem Java e banco de dados PostgreSQL.
