@@ -3,8 +3,8 @@
 - 🔭 I’m currently working with language Java and PostgreSQL database.
 -     Estou trabalhando atualmente com a linguagem Java e banco de dados PostgreSQL.
       
-- 🌱 I’m currently learning languages web such as HTML, CSS, Javascript, Angular, Node.js and ReactJS.
--     Estou estudando atualmente linguagens web tais como HTML, CSS, Javascript, Angular, Node.js e ReactJS.
+- 🌱 I’m currently learning languages web such as HTML, CSS, Javascript, Angular, Node.js and PHP.
+-     Estou estudando atualmente linguagens web tais como HTML, CSS, Javascript, Angular, Node.js and PHP.
       
 - 📫 My contact email: guilhermeeduardoroo@gmail.com or guilhermeeduardo-17@outlook.com
 -     Meus e-mails para contato: guilhermeeduardoroo@gmail.com ou guilhermeeduardo-17@outlook.com.
