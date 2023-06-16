@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/88467676/195169350-88db1329-3029-4a02-bb6f-bb80a299d6be.png)
 
-- 🔭 I’m currently working with language Java and PostgreSQL database.
--     Estou trabalhando atualmente com a linguagem Java e banco de dados PostgreSQL.
+- 🔭 I’m Developer Java.
+-     Eu sou Desenvolvedor Java.
       
-- 🌱 I’m currently learning languages web such as HTML, CSS, Javascript, Angular, Node.js and PHP.
+- 🌱 I’m currently learning languages web such as HTML, CSS, Javascript, React.JS, Node.js and PHP.
 -     Estou estudando atualmente linguagens web tais como HTML, CSS, Javascript, Angular, Node.js and PHP.
       
 - 📫 My contact email: guilhermeeduardoroo@gmail.com or guilhermeeduardo-17@outlook.com
