@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/88467676/195169350-88db1329-3029-4a02-bb6f-bb80a299d6be.png)
+https://github.com/GuilhermeEduardo23/GuilhermeEduardo23/assets/88467676/b144c2f3-f0b9-4dfe-97ad-6bd6c5a5dd7a
 
 - 🔭 I’m Developer Java.
 -     Eu sou Desenvolvedor Java.
