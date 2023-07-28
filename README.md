@@ -3,8 +3,8 @@ https://github.com/GuilhermeEduardo23/GuilhermeEduardo23/assets/88467676/b144c2f
 - 🔭 I’m Developer Java.
 -     Eu sou Desenvolvedor Java.
       
-- 🌱 I’m currently learning languages web such as HTML, CSS, Javascript, React.JS, Node.js and PHP.
--     Estou estudando atualmente linguagens web tais como HTML, CSS, Javascript, Angular, Node.js and PHP.
+- 🌱 I’m currently learning languages web such as HTML, CSS, Javascript, React.js, Node.js and PHP.
+-     Estou estudando atualmente linguagens web tais como HTML, CSS, Javascript, React.js, Node.js and PHP.
       
 - 📫 My contact email: guilhermeeduardoroo@gmail.com or guilhermeeduardo-17@outlook.com
 -     Meus e-mails para contato: guilhermeeduardoroo@gmail.com ou guilhermeeduardo-17@outlook.com.
