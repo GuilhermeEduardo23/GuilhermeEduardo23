@@ -1,6 +1,6 @@
 <img src="./GUILHERME EDUARDO.gif"/>
 
-#Olá, seja bem-vindo(a)! Acompanhe um pouco mais abaixo sobre mim. Fique à vontade!
+# Olá, seja bem-vindo(a)! Acompanhe um pouco mais abaixo sobre mim. Fique à vontade!
       
 🌱 Me chamo Guilherme, tenho 25 anos e sou formado em Sistemas de Informação, pela Universidade Luterana do Brasil. Completo entusiasta da tecnologia, que vê como uma oportunidade para melhorar o nosso futuro.
 
