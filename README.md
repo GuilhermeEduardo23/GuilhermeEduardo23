@@ -38,6 +38,8 @@
   <a href = "mailto:guilhermeeduardo-17@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
+<br/>
+
 <div>
   <p>Obrigado(a) pela sua visita!</p>
   <img src="./foto.jpeg" height= 150 style="border-radius: 10px"/>
