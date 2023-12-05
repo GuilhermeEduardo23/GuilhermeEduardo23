@@ -1,13 +1,9 @@
-https://github.com/GuilhermeEduardo23/GuilhermeEduardo23/assets/88467676/b144c2f3-f0b9-4dfe-97ad-6bd6c5a5dd7a
-
-- 🔭 I’m Developer Java.
--     Eu sou Desenvolvedor Java.
+- Olá, acompanhe um pouco mais abaixo sobre mim. Fique à vontade!
       
-- 🌱 I’m currently learning languages web such as HTML, CSS, Javascript, React.js, Node.js and PHP.
--     Estou estudando atualmente linguagens web tais como HTML, CSS, Javascript, React.js, Node.js and PHP.
+- 🌱 Me chamo Guilherme, tenho 25 anos e sou formado em Sistemas de Informação.
+- Estou estudando atualmente linguagens web tais como Javascript, React.js, CSS e o pré-processador SAAS.
       
-- 📫 My contact email: guilhermeeduardoroo@gmail.com or guilhermeeduardo-17@outlook.com
--     Meus e-mails para contato: guilhermeeduardoroo@gmail.com ou guilhermeeduardo-17@outlook.com.
+- 📫 Meu e-mail para contato é: guilhermeeduardoroo@gmail.com
       
 <div align="center">
   <a href="https://github.com/GuilhermeEduardo23">
