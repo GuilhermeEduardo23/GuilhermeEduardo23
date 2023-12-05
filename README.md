@@ -33,9 +33,8 @@
 </div>
 
 ### Entre em contato comigo :)
-<div>
+<div style="display: flex; gap: 1rem">
   <a href = "mailto:guilhermeeduardoroo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermeeduardo-17@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <img src="./foto.jpeg" height= 150 style="border-radius: 10px"/>
 </div>
-
-![Snake animation](https://github.com/GuilhermeEduardo23/GuilhermeEduardo23/blob/output/github-contribution-grid-snake.svg)
