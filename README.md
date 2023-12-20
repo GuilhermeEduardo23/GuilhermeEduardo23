@@ -4,9 +4,9 @@
       
 🌱 Me chamo Guilherme, tenho 25 anos e sou formado em Sistemas de Informação, pela Universidade Luterana do Brasil. Completo entusiasta da tecnologia, que vê como uma oportunidade para melhorar o nosso futuro.
 
-👨‍💻 Atualmente estudo linguagens web tais como Javascript, React.js, CSS e o pré-processador SAAS. Meu foco é ser um desenvolvedor Front-End.
+👨‍💻 Atualmente estudo linguagens web tais como Javascript, bilbioteca de desenvolvimento React.js, servidor local Vite, CSS e o pré-processador SAAS. Meu foco é ser um desenvolvedor Front-End.
 
-👨🏻‍💼 Já trabalhei com linguagem Java em conjunto com a biblioteca de interface gráfica Swing.
+👨🏻‍💼 Já trabalhei com linguagem Java em conjunto com a biblioteca de interface gráfica Swing, para desenvolvimento de sistemas desktops.
       
 📫 Meu e-mail para contato é: guilhermeeduardoroo@gmail.com
       
