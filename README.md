@@ -4,7 +4,7 @@
   <img src="https://github.com/GuilhermeEduardo23/GuilhermeEduardo23/assets/88467676/8e3b6ca3-06fd-485d-822d-4f790aecf9b9" width="350" height="350"/>
 </div>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My name's Guilherme, I'm 26 years old and I have a degree in Information Systems. I'm a complete technology enthusiast who sees programming as an art to express our skills and knowledge.</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My name's Guilherme, I'm 27 years old and I have a degree in Information Systems. I'm a complete technology enthusiast who sees programming as an art to express our skills and knowledge.</p>
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> I'm currently studying for Front-End development. I have knowledge of HTML, CSS, Javascript, Vite, Sass preprocessor, ReactJS, Tailwind e Typescript. My roadmap includes React Native, NextJS, GraphQL, Cypress, Figma and NodeJS.</p>
 
